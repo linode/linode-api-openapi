@@ -1,6 +1,15 @@
-# Distributable OpenAPI Description for the Linode API
+# Linode API OpenAPI
 
-This repository contains the packaged and distributable OpenAPI description file for the Linode API. Review the [Linode API reference documentation](https://techdocs.akamai.com/linode-api/reference/api) for more details on using this API. For other Akamai APIs, see the [akamai/akamai-apis](https://github.com/akamai/akamai-apis) repository.
+This repository contains the packaged and distributable OpenAPI description file for the Linode API.
+
+## Linode API resources
+
+- Documentation: Review the [Linode API reference documentation](https://techdocs.akamai.com/linode-api/reference/api) for more details on using this API.
+- Release notes: See the [Linode API release notes](https://techdocs.akamai.com/linode-api/changelog) page for a list of changes to the Linode API.
+
+## OpenAPI files for other Akamai APIs
+
+To view the OpenAPI files for other Akamai APIs, see the [akamai/akamai-apis](https://github.com/akamai/akamai-apis) repository.
 
 ## License and notice
 
